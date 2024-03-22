@@ -1,0 +1,21 @@
+{
+    "usuarios":[
+        {
+            "Id": 1,
+            "Usuario": "Fiorella",
+            "Clave": "123456789"
+        },
+
+        {
+            "Id": 1,
+            "Usuario": "Brisa",
+            "Clave": "987654321"
+        },
+
+        {
+            "Id": 1,
+            "Usuario": "Admin",
+            "Clave": "12345"
+        }
+    ]
+}
